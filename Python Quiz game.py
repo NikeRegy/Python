@@ -148,7 +148,7 @@ elif score >= 16:
 elif score >= 14:
     grade = "B3"
     print(f"Good effort! You got {grade}!")
-elif score >= 12:
+elif score >= 12 :
     grade = "C4"
     print(f"Nice work! You got {grade}!")
 elif score >= 10:
